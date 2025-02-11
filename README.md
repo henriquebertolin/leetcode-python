@@ -1,2 +1,2 @@
 ## leetcode-python
-Exercícios da plataforma LeetCode realizados em Python com objetivo de melhorar meus conhecimentos em estruturas de dados e lógica de programação.
+Exercises from the LeetCode platform completed in Python with the goal of improving my knowledge in data structures and programming logic.
